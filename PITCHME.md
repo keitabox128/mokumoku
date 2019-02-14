@@ -1,4 +1,5 @@
-# 成果 ケイティ（渡邊)
+# 成果 ケイティ<br>
+（渡邊)
 
 ---
 ・PHPStorm使ってHTMLやJavaScriptを動かす→Jet Brainsの講習の復習（買った本のチュートリアルを一通り）<br>
